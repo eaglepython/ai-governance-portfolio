@@ -170,13 +170,13 @@ Senior AI Engineer | AI Governance Researcher | AI2030 Global Fellow
 
 ---
 
-## 🔄 Quick Links
+## 🔄 Quick Links https://eaglepython.github.io/ai-ethics-monitoring-dashboard/
 
 | Project | Live Demo | Documentation | Congressional Brief |
 |---------|-----------|---------------|-------------------|
 | Healthcare Toolkit | [🔗 View](https://eaglepython.github.io/healthcare-llm-governance-toolkit) | [📖 Docs](https://github.com/eaglepython/healthcare-llm-governance-toolkit#readme) | [📄 Brief](./briefs/healthcare-ai-oversight.md) |
 | Multi-LLM Platform | [🔗 View](https://eaglepython.github.io/multi-llm-orchestration-platform) | [📖 Docs](https://github.com/eaglepython/multi-llm-orchestration-platform#readme) | [📄 Brief](./briefs/vendor-diversity-framework.md) |
-| Ethics Dashboard | [🔗 View](https://github.com/eaglepython/ai-ethics-monitoring-dashboard) | [📖 Docs](https://github.com/eaglepython/ai-ethics-monitoring-dashboard#readme) | [📄 Brief](./briefs/continuous-ai-monitoring.md) |
+| Ethics Dashboard | [🔗 View](https://eaglepython.github.io/ai-ethics-monitoring-dashboard/) | [📖 Docs](https://github.com/eaglepython/ai-ethics-monitoring-dashboard#readme) | [📄 Brief](./briefs/continuous-ai-monitoring.md) |
 
 ---
 
