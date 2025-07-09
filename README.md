@@ -1,3 +1,5 @@
+![3 Figure The Role of AI in Parliaments](https://github.com/user-attachments/assets/8e1966a6-dd4c-4974-bf66-78c3cba2dfbd)
+
 # 🏛️ AI Governance Portofolio - Joseph Bidias
 
 **Senior AI Engineer | AI solution Architect & AI Governance Researcher | AI2030 Global Fellow**
