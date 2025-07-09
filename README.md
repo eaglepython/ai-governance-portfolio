@@ -170,7 +170,7 @@ Senior AI Engineer | AI Governance Researcher | AI2030 Global Fellow
 
 ---
 
-## 🔄 Quick Links https://eaglepython.github.io/ai-ethics-monitoring-dashboard/
+## 🔄 Quick Links :
 
 | Project | Live Demo | Documentation | Congressional Brief |
 |---------|-----------|---------------|-------------------|
