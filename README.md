@@ -11,6 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aiglevision35@gmail.com)
 
 ---
+<img width="6016" height="2824" alt="diagram(3)" src="https://github.com/user-attachments/assets/a3da84c0-2047-4780-b8f3-3252ee80f4ff" />
 
 ## 🎯 Portfolio Overview
 
