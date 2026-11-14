@@ -32,11 +32,6 @@ This page links to prototypes I built to think through practical problems in AI 
 
 I have worked on AI systems in public health and local government, where the hard questions are rarely about the model. They are about who checks it, what gets measured, and what happens when a check fails. Building these prototypes was my way of making those questions concrete.
 
-## Contact
-
-- GitHub: https://github.com/eaglepython
-- Medium: https://medium.com/@rodabeck777
----
 
 ## 📝 Research & Thought Leadership
 
@@ -78,12 +73,6 @@ I have worked on AI systems in public health and local government, where the har
 - **🏅 Robert Pittman Fellowship** - AI for Health Systems (2018)
 - **📜 AWS Machine Learning Specialty** - Certified cloud AI architect
 - **🎤 Keynote Speaker** - "Responsible AI in Regulated Industries" (2024)
-
-### Policy Impact
-- **Congressional References** - Work cited in AI oversight discussions
-- **Healthcare Adoption** - Framework used by 15+ health systems
-- **Academic Citations** - Research referenced in policy papers
-- **Open Source Contributions** - Hugging Face, LangChain governance tools
 
 ---
 
