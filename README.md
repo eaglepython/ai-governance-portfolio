@@ -2,7 +2,7 @@
 
 # 🏛️ AI Governance Portofolio - Joseph Bidias
 
-**Senior AI Engineer | AI solution Architect & AI Governance Researcher | AI2030 Global Fellow**
+**AI Engineer | AI solution Architect & AI Governance Researcher | AI2030 Global Fellow**
 
 *Bridging AI Innovation with Democratic Accountability Through Practical Implementation*
 
