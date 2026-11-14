@@ -15,77 +15,27 @@
 
 ## 🎯 Portfolio Overview
 
-This portfolio showcases **three deployed AI governance systems** that demonstrate practical solutions to critical challenges in AI accountability, vendor diversity, and continuous monitoring. Each project provides immediate value for Congressional AI oversight while proving technical depth in production environments.
+This page links to prototypes I built to think through practical problems in AI oversight: how to assess risk before deployment, how to avoid dependence on one vendor, and how to watch for bias after deployment.
 
-### 📊 Impact Summary
-- **200,000+ patients** served by deployed healthcare AI systems
-- **22% reduction** in hospital readmissions through AI governance
-- **3 major LLM providers** integrated for vendor diversity
-- **Real-time bias monitoring** across multiple AI applications
-- **Zero regulatory violations** in production deployments
+**These are prototypes.** They run in the browser with sample or simulated data. None of them is deployed in an agency or company, and the figures they display are illustrative.
 
----
+## Projects
 
-## 🏗️ Deployed AI Governance Systems
+| Project | What it explores | State |
+|---|---|---|
+| [Healthcare LLM Governance Toolkit](https://github.com/eaglepython/healthcare-llm-governance-toolkit) | A weighted risk questionnaire for healthcare AI systems and a mock oversight dashboard | Front-end prototype, sample data |
+| [Multi-LLM Orchestration Platform](https://github.com/eaglepython/multi-llm-orchestration-platform) | Routing requests across several model providers to reduce vendor dependence | Front-end prototype, backend in draft |
+| [AI Ethics Monitoring Dashboard](https://github.com/eaglepython/ai-ethics-monitoring-dashboard) | Which bias and fairness measures an oversight team needs on one screen | Front-end prototype, simulated data |
+| [Policy Analysis Dashboard](https://github.com/eaglepython/policy-analysis-dashboard) | Market concentration (HHI) and cost comparisons from an uploaded CSV | Working small app, example data |
 
-### 🏥 1. Healthcare LLM Governance Toolkit
-**🔗 [Live Repository →](https://github.com/eaglepython/healthcare-llm-governance-toolkit)**
+## Why I built them
 
-**Comprehensive risk assessment system for AI vendors in regulated healthcare environments**
+I have worked on AI systems in public health and local government, where the hard questions are rarely about the model. They are about who checks it, what gets measured, and what happens when a check fails. Building these prototypes was my way of making those questions concrete.
 
-**Key Features:**
-- ✅ Automated bias detection across demographic groups
-- ✅ Hallucination risk scoring for AI reliability
-- ✅ HIPAA/FHIR compliance monitoring
-- ✅ Multi-vendor comparison dashboard
+## Contact
 
-**Congressional Relevance:** Framework for federal AI procurement and oversight accountability
-
-**Production Impact:**
-- Protecting 200,000+ patients through AI governance
-- 95% bias detection accuracy
-- 30% reduction in AI-related incidents
-
----
-
-### 🔄 2. Multi-LLM Orchestration Platform  
-**🔗 [Live Repository →](https://github.com/eaglepython/multi-llm-orchestration-platform)**
-
-**Vendor diversity solution preventing algorithmic concentration risk in critical systems**
-
-**Key Features:**
-- ✅ Intelligent load balancing across OpenAI, Anthropic, Google
-- ✅ Automatic failover (<150ms switching time)
-- ✅ Cost optimization (15% savings through smart routing)
-- ✅ Built-in governance APIs for oversight
-
-**Congressional Relevance:** Addresses dangerous AI concentration in federal systems
-
-**Production Impact:**
-- 10,000+ requests/day across multiple providers
-- 99.9% uptime through vendor diversity
-- 40% faster failover than single-vendor systems
-
----
-
-### 📊 3. AI Ethics Monitoring Dashboard
-**🔗 [Live Repository →](https://github.com/eaglepython/ai-ethics-monitoring-dashboard)**
-
-**Real-time oversight system providing continuous AI accountability across organizations**
-
-**Key Features:**
-- ✅ Real-time bias monitoring and alerting
-- ✅ Fairness metrics visualization
-- ✅ Complete audit trail generation
-- ✅ Stakeholder transparency interfaces
-
-**Congressional Relevance:** Template for federal agency AI monitoring and democratic oversight
-
-**Production Impact:**
-- 95% reduction in bias detection time
-- Automated compliance reporting saves 20 hours/week
-- Early warning system prevents systematic failures
-
+- GitHub: https://github.com/eaglepython
+- Medium: https://medium.com/@rodabeck777
 ---
 
 ## 📝 Research & Thought Leadership
