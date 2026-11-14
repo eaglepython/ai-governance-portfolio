@@ -133,7 +133,6 @@ Senior AI Engineer | AI Governance Researcher | AI2030 Global Fellow
 
 ---
 
-**⭐ This portfolio demonstrates practical AI governance implementation experience that directly translates to Congressional oversight needs.**
 
 *"Building AI systems that serve democracy requires both technical excellence and policy wisdom. These deployed systems show how to achieve both."*
 
