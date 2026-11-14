@@ -42,7 +42,7 @@ I have worked on AI systems in public health and local government, where the har
 
 ### Published Articles
 1. **["Bridging Innovation and Accountability: The Path Forward for AI Governance in 2025"](https://medium.com/@rodabeck777/bridging-innovation-and-accountability-the-path-forward-for-ai-governance-in-2025-9059eed8e3d2)**
-   - 10,000+ views, foundational AI governance framework
+   -  foundational AI governance framework
 
 2. **["Financial Contagion Meets AI: Systemic Risk in Algorithmic Decision-Making"](https://medium.com/@rodabeck777/financial-contagion-meets-ai-systemic-risk-in-algorithmic-decision-making-41c2fa87d0a3)**
    - Viral analysis of AI concentration risks using financial engineering
