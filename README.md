@@ -1,23 +1,34 @@
+<div align="center">
+
 # AI Governance Portfolio
 
-![status](https://img.shields.io/badge/status-prototype-orange) ![focus](https://img.shields.io/badge/focus-AI_governance-1A3A5C)
+### Joseph Bidias — AI engineer & AI governance researcher · AI2030 Global Fellow
 
-<img alt="Portfolio diagram" src="https://github.com/user-attachments/assets/a3da84c0-2047-4780-b8f3-3252ee80f4ff" width="100%" />
+Prototypes built to work through practical problems in AI oversight: assessing risk before deployment, reducing dependence on a single vendor, and watching for bias after deployment.
 
-Joseph Bidias. AI engineer and AI governance researcher. AI2030 Global Fellow.
+![Focus](https://img.shields.io/badge/Focus-AI_Governance-1A3A5C?style=flat-square)
+![Status](https://img.shields.io/badge/Projects-Prototypes-E67E22?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-2E7D32?style=flat-square)
 
-This page links to prototypes I built to think through practical problems in AI oversight: how to assess risk before deployment, how to avoid dependence on one vendor, and how to watch for bias after deployment.
+<br/>
 
-**These are prototypes.** They run in the browser with sample or simulated data. None of them is deployed in an agency or company, and the figures they display are illustrative.
+<img src="https://github.com/user-attachments/assets/a3da84c0-2047-4780-b8f3-3252ee80f4ff" alt="How the projects fit together" width="92%"/>
+
+</div>
+
+---
+
+> [!NOTE]
+> **These are prototypes.** They run in the browser with sample or simulated data. None is deployed in an agency or company, and the figures they display are illustrative.
 
 ## Projects
 
 | Project | What it explores | State |
 |---|---|---|
-| [Healthcare LLM Governance Toolkit](https://github.com/eaglepython/healthcare-llm-governance-toolkit) | A weighted risk questionnaire for healthcare AI systems and a mock oversight dashboard | Front-end prototype, sample data |
-| [Multi-LLM Orchestration Platform](https://github.com/eaglepython/multi-llm-orchestration-platform) | Routing requests across several model providers to reduce vendor dependence | Front-end prototype, backend in draft |
-| [AI Ethics Monitoring Dashboard](https://github.com/eaglepython/ai-ethics-monitoring-dashboard) | Which bias and fairness measures an oversight team needs on one screen | Front-end prototype, simulated data |
-| [Policy Analysis Dashboard](https://github.com/eaglepython/policy-analysis-dashboard) | Market concentration (HHI) and cost comparisons from an uploaded CSV | Working small app, example data |
+| [**Healthcare LLM Governance Toolkit**](https://github.com/eaglepython/healthcare-llm-governance-toolkit) | A weighted risk questionnaire for healthcare AI systems and a mock oversight dashboard | Front-end prototype, sample data |
+| [**Multi-LLM Orchestration Platform**](https://github.com/eaglepython/multi-llm-orchestration-platform) | Routing requests across providers to reduce vendor dependence | Front-end prototype, backend in draft |
+| [**AI Ethics Monitoring Dashboard**](https://github.com/eaglepython/ai-ethics-monitoring-dashboard) | Which bias and fairness measures an oversight team needs on one screen | Front-end prototype, simulated data |
+| [**Policy Analysis Dashboard**](https://github.com/eaglepython/policy-analysis-dashboard) | Market concentration (HHI) and cost comparisons from an uploaded CSV | Working app, example data |
 
 ## Why I built them
 
@@ -25,5 +36,7 @@ I have worked on AI systems in public health and local government, where the har
 
 ## Contact
 
-- GitHub: https://github.com/eaglepython
-- Medium: https://medium.com/@rodabeck777
+- GitHub — [github.com/eaglepython](https://github.com/eaglepython)
+- Medium — [@rodabeck777](https://medium.com/@rodabeck777)
+
+<sub>Released under the MIT License.</sub>
